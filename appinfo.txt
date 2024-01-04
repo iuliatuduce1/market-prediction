@@ -1,0 +1,20 @@
+
+Market Predictor App
+
+Description:
+A straightforward Python application designed to predict stock market trends using decision tree regression and linear regression models.
+The application uses a dataset (stocks.csv) that contains historical data of Microsoft stocks.
+
+Directory Structure:
+ - MarketAnalysis.ipynb, the Jupyter notebook
+ - stocks.csv, our dataset
+
+ Usage:
+1. Run MarketAnalysis.ipynb to perform market prediction using the provided dataset.
+2. Make sure you install the Jupyter Notebok module.
+3. Explore and extend the functionality of the data preprocessing and prediction modules as needed.
+
+Notes:
+The application currently uses a decision tree regression model for prediction.
+Users can easily extend the application to use other machine learning models by modifying the prediction module.
+The application also includes data visualization features that allow users to plot the original and predicted stock prices.
