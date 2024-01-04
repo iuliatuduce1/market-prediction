@@ -1,5 +1,10 @@
 # created by virtualenv automatically
-*
+etc
+Lib
+Scripts
+share
+*.cfg
 !*.ipynb
 !*.csv
+!*.txt
 !.gitignore
